@@ -3,6 +3,7 @@
 ![Veryable Logo](https://github.com/johnsonav1992/johnsonav1992/blob/main/veryablelogo-removebg-preview.png)
 
 - 🏢 I'm a Front-End Web Engineer ⚛️ @ Veryable in Dallas, TX 
+- 🎓 Proud graduate of Devmountain Web Development Bootcamp
 - ⚡ Fun fact: I used to be a middle school band director!
 - 🌱 I’m currently learning: TypeScript & Next.js! 
 
