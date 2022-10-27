@@ -1,6 +1,6 @@
 ### Welcome to Alex's Github! 👋
 
-![Veryable Logo](https://github.com/johnsonav1992/johnsonav1992/blob/main/Veryable-Logo-Color%20(2).png)
+![Veryable Logo](https://github.com/johnsonav1992/johnsonav1992/blob/main/veryablelogo-removebg-preview.png)
 
 - 🏢 I'm a Front-End Web Engineer ⚛️ @ Veryable in Dallas, TX 
 - ⚡ Fun fact: I used to be a middle school band director!
