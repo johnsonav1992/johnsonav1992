@@ -5,7 +5,7 @@
 - 🏢 I'm a Front-End Web Engineer ⚛️ @ Veryable in Dallas, TX 
 - 🎓 Proud graduate of Devmountain Web Development Bootcamp
 - ⚡ Fun fact: I used to be a middle school band director!
-- 🌱 I’m currently learning: TypeScript & Next.js! 
+- 🌱 I’m currently learning: TypeScript, Next.js and Remix.js! 
 
 How many times people have checked out this amazing github profile:
 ![](https://komarev.com/ghpvc/?username=johnsonav1992)
