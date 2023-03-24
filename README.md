@@ -5,7 +5,7 @@
 - 🏢 I'm a Front-End Web Engineer ⚛️ @ Veryable in Dallas, TX 
 - 🎓 Proud graduate of Devmountain Web Development Bootcamp
 - ⚡ Fun fact: I used to be a middle school band director!
-- 🌱 I’m currently learning: Remix.js & Prisma ORM!
+- 🌱 I’m currently learning: Swift & iOS development!
 
 
 How many times people have checked out this amazing github profile:
