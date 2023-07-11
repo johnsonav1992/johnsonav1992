@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I used to be a middle school band director!
 - 🌱 I’m currently learning: <img src="https://user-images.githubusercontent.com/97169070/227504250-ca4e638e-09d6-4792-866e-a5af48ea5954.png" width=3% height=3%> Swift & iOS development!
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnsonav1992&show_icons=true&theme=transparent&hide=issues,prs&count_private=true)](https://github.com/johnsonav1992/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnsonav1992&show_icons=true&theme=transparent&hide=issues,prs&count_private=true&hide_rank=true)](https://github.com/johnsonav1992/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonav1992&size_weight=0.5&count_weight=0.5&theme=transparent)](https://github.com/johnsonav1992/github-readme-stats)
 
