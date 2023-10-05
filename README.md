@@ -2,10 +2,10 @@
 
 ![Veryable Logo](https://github.com/johnsonav1992/johnsonav1992/blob/main/veryablelogo-removebg-preview.png)
 
-- 🏢 I'm a Front-End Web Engineer <img src="https://user-images.githubusercontent.com/97169070/227505554-4d5e4525-a4e4-46ee-835f-83aa19612c7e.png" width=2% height=2%> @ Veryable in Dallas, TX 
+- 🏢 I'm a Front-End Web Engineer @ Veryable in Dallas, TX 
 - 🎓 Proud graduate of Devmountain Web Development Bootcamp
 - ⚡ Fun fact: I used to be a middle school band director!
-- 🌱 I’m currently learning: <img src="https://user-images.githubusercontent.com/97169070/227504250-ca4e638e-09d6-4792-866e-a5af48ea5954.png" width=3% height=3%> Swift & iOS development!
+- 🌱 I’m currently learning: Laravel and Advanced TypeScript
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnsonav1992&show_icons=true&theme=transparent&hide=issues,prs&count_private=true&hide_rank=true)](https://github.com/johnsonav1992/github-readme-stats)
 
