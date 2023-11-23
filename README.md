@@ -5,7 +5,7 @@
 - 🏢 I'm a Lead Front-End Web Engineer @ Veryable in Dallas, TX 
 - 🎓 Proud graduate of Devmountain Web Development Bootcamp
 - ⚡ Fun fact: I used to be a middle school band director!
-- 🌱 I’m currently learning: Laravel and Advanced TypeScript
+- 🌱 I’m currently learning: Library Building and Advanced TypeScript
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnsonav1992&show_icons=true&theme=transparent&hide=issues,prs&count_private=true&hide_rank=true)](https://github.com/johnsonav1992/github-readme-stats)
 
