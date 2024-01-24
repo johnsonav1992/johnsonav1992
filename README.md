@@ -3,9 +3,10 @@
 ![Veryable Logo](https://github.com/johnsonav1992/johnsonav1992/blob/main/veryablelogo-removebg-preview.png)
 
 - 🏢 I'm a Lead Front-End Web Engineer @ Veryable in Dallas, TX 
-- 🎓 Proud graduate of Devmountain Web Development Bootcamp
+- 🎓 Proud graduate of Devmountain Web Development Bootcamp 
 - ⚡ Fun fact: I used to be a middle school band director!
 - 🌱 I’m currently learning: Library Building and Advanced TypeScript
+- 🎨 Check out my VS Code theme that is published to the VS Code Marketplace: [Tungsten Carbide!](https://marketplace.visualstudio.com/items?itemName=johnsonav.tungsten-carbide)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnsonav1992&show_icons=true&theme=transparent&hide=issues,prs&count_private=true&hide_rank=true)](https://github.com/johnsonav1992/github-readme-stats)
 
