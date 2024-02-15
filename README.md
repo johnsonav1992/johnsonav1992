@@ -5,7 +5,7 @@
 - 🏢 I'm a Lead Front-End Web Engineer @ Veryable in Dallas, TX 
 - 🎓 Proud graduate of Devmountain Web Development Bootcamp 
 - ⚡ Fun fact: I used to be a middle school band director!
-- 🌱 I’m currently learning: Library Building and Advanced TypeScript
+- 🌱 I’m currently learning: Rust
 - 🎨 Check out my VS Code theme that is published to the VS Code Marketplace: [Tungsten Carbide!](https://marketplace.visualstudio.com/items?itemName=johnsonav.tungsten-carbide)
 
 - My Portfolio Site: [alexjohnson.netlify.app](https://alexjohnson.netlify.app)
