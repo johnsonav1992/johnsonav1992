@@ -1,7 +1,5 @@
 ### Welcome to Alex's Github! 👋
 
-![Veryable Logo](https://github.com/johnsonav1992/johnsonav1992/blob/main/veryablelogo-removebg-preview.png)
-
 - 🏢 I'm a Web Developer / Software Engineer in Dallas, TX 
 - ⚡ Fun fact: I used to be a middle school band director!
 - 🌱 I’m currently learning: Rust 
