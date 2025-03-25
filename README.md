@@ -7,7 +7,7 @@
  , C#/.NET <img src="https://github.com/johnsonav1992/johnsonav1992/assets/97169070/9f280dee-bf5e-4f48-ad45-b5cd2e1bc72d" width="25px" />
  , and anything else I come across that I want to dive into!
 - 🎨 Check out my VS Code theme that is published to the VS Code Marketplace: [Tungsten Carbide!](https://marketplace.visualstudio.com/items?itemName=johnsonav.tungsten-carbide)
-
+- I also contribute to open-source projects like PrimeNG and others! 
 - My Portfolio Site: [alexjohnson.netlify.app](https://alexjohnson.netlify.app)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnsonav1992&show_icons=true&theme=transparent&hide=issues,prs&count_private=true&hide_rank=true)](https://github.com/johnsonav1992/github-readme-stats)
