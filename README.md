@@ -10,7 +10,7 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnsonav1992&show_icons=true&theme=transparent&hide=issues,prs&count_private=true&hide_rank=true)](https://github.com/johnsonav1992/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonav1992&size_weight=0.5&count_weight=0.5&theme=transparent&hide=css,html,svelte,slint,vue,procfile,blade&langs_count=6&layout=compact)](https://github.com/johnsonav1992/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonav1992&size_weight=0.8&count_weight=0.2&theme=transparent&hide=css,scss,html,svelte,slint,vue,procfile,blade,hack&langs_count=8&layout=compact)](https://github.com/johnsonav1992/github-readme-stats)
 
 How many times people have checked out this amazing github profile:
 ![](https://komarev.com/ghpvc/?username=johnsonav1992)
