@@ -3,7 +3,7 @@
 - 💻 I'm a Web Developer / Senior Software Engineer in Dallas, TX  ->  [My Gitlab profile/contributions (professional)](https://gitlab.com/johnsonav1992)
 - I work at Sustainment! <img src="https://github.com/johnsonav1992/johnsonav1992/assets/97169070/0e071e49-c9d1-4ee6-8a90-305d5144aec1" width="20px" />
 - ⚡ Fun fact: I used to be a middle school band director!
-- 🌱 I’m currently learning: Clojure!
+- 🌱 I’m currently learning: Clojure and Astro!
 - 🎨 Check out my VS Code theme that is published to the VS Code Marketplace: [Tungsten Carbide!](https://marketplace.visualstudio.com/items?itemName=johnsonav.tungsten-carbide)
 - I also contribute to open-source projects like PrimeNG and others! 
 - My Portfolio Site (personal projects): [alexjohnson.netlify.app](https://alexjohnson.netlify.app)
