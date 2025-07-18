@@ -17,7 +17,7 @@
 [![Clojure](https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=clojure&logoColor=white)](https://clojure.org/)
 [![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
-[![VS Code Extension](https://img.shields.io/badge/-VS%20Code%20Extension-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=johnsonav.tungsten-carbide)
+[![VS Code Extension](https://img.shields.io/badge/-VS%20Code%20Extensions-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=johnsonav.tungsten-carbide)
 [![Open Source](https://img.shields.io/badge/-Open%20Source%20Contributor-FF6B6B?style=flat-square&logo=github&logoColor=white)](https://github.com/johnsonav1992)
 
 - 💻 I'm a Web Developer / Senior Software Engineer in Dallas, TX  ->  [My Gitlab profile/contributions (professional)](https://gitlab.com/johnsonav1992)
