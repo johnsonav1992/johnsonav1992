@@ -23,7 +23,7 @@
 - 💻 I'm a Web Developer / Senior Software Engineer in Dallas, TX  ->  [My Gitlab profile/contributions (professional)](https://gitlab.com/johnsonav1992)
 - I work at Sustainment! <img src="https://github.com/johnsonav1992/johnsonav1992/assets/97169070/0e071e49-c9d1-4ee6-8a90-305d5144aec1" width="20px" />
 - ⚡ Fun fact: I used to be a middle school band director!
-- 🌱 I’m currently learning: Clojure and Astro!
+- 🌱 I’m currently learning: Clojure and developing Agentic AI!
 - 🎨 Check out my VS Code theme that is published to the VS Code Marketplace: [Tungsten Carbide!](https://marketplace.visualstudio.com/items?itemName=johnsonav.tungsten-carbide)
 - My Portfolio Site (personal projects): [alexjohnson.netlify.app](https://alexjohnson.netlify.app)
 
@@ -39,17 +39,11 @@ Contributing to one of the most popular Angular component libraries with bug fix
 
 **🔗 [OData Fluent Query](https://github.com/rosostolato/odata-fluent-query)**  
 *TypeScript OData Query Builder*  
-Helping improve the TypeScript library for building OData queries with better type safety and developer experience.
+Currently a maintainer of the library, helping improve to improve building OData queries with better type safety and developer experience.
 
 **🎨 [Tungsten Carbide VS Code Theme](https://marketplace.visualstudio.com/items?itemName=johnsonav.tungsten-carbide)**  
 *Published VS Code Extension*  
-Created and maintain a custom VS Code theme available on the official marketplace.
-
-### 📊 Contribution Impact
-- Active contributor to **Angular** and **TypeScript** ecosystems
-- Focus on **developer experience** and **code quality** improvements
-- Regular **bug fixes**, **feature development**, and **documentation** enhancements
-- Published VS code theme extension with growing user adoption
+Created and maintaining a custom VS Code theme available on the official marketplace.
 
 ---
 
