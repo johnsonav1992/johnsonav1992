@@ -39,7 +39,7 @@ Contributing to one of the most popular Angular component libraries with bug fix
 
 **🔗 [OData Fluent Query](https://github.com/rosostolato/odata-fluent-query)**  
 *TypeScript OData Query Builder*  
-Currently a maintainer of the library, helping improve to improve building OData queries with better type safety and developer experience.
+Currently a maintainer of the library, helping to improve building OData queries with better type safety and developer experience.
 
 **🎨 [Tungsten Carbide VS Code Theme](https://marketplace.visualstudio.com/items?itemName=johnsonav.tungsten-carbide)**  
 *Published VS Code Extension*  
