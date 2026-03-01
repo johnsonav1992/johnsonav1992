@@ -20,7 +20,8 @@
 [![VS Code Extension](https://img.shields.io/badge/-VS%20Code%20Extensions-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=johnsonav.tungsten-carbide)
 [![Open Source](https://img.shields.io/badge/-Open%20Source%20Contributor-FF6B6B?style=flat-square&logo=github&logoColor=white)](https://github.com/johnsonav1992)
 
-- 💻 I'm a Web Developer / Senior Software Engineer in Dallas, TX 
+- 💻 I'm a Web Developer / Senior Software Engineer in Dallas, TX
+- I work at OEC!
 - ⚡ Fun fact: I used to be a middle school band director!
 - 🌱 I’m currently learning: Clojure and developing Agentic AI!
 - 🎨 Check out my VS Code theme that is published to the VS Code Marketplace: [Tungsten Carbide!](https://marketplace.visualstudio.com/items?itemName=johnsonav.tungsten-carbide)
